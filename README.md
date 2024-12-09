@@ -1,4 +1,4 @@
-# verificador de conta matématica em ruby
+# verificador de conta matemática em ruby
 
 ## Descrição
 
